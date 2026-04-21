@@ -8,7 +8,7 @@ School project
     <title>FixNow Ghana - Project Portfolio</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
-        body { background: #f5f5f5; color: #333; line-height: 1.6; }
+        body { background: #f5f5f5; color: #444; line-height: 1.6; }
         header { background: #0A4D68; color: white; padding: 1rem 0; position: sticky; top: 0; z-index: 100; }
         nav { max-width: 1100px; margin: auto; display: flex; justify-content: space-between; align-items: center; padding: 0 20px; }
         nav ul { display: flex; list-style: none; gap: 20px; }
