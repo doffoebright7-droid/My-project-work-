@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adom Gifts - Track Your Order</title>
+    <title>Nora Gift Shop - Track Your Order</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Arial, sans-serif; }
         body { background: #FFF9F5; color: #333; line-height: 1.6; }
